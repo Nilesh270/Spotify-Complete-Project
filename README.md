@@ -28,7 +28,7 @@ A full‑stack music app with a React frontend, a Python Flask backend, and a re
 
 ## Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nilesh270/Spotify-Complete-Project.git
 cd Spotify-Complete-Project
 ```
 
